@@ -42,6 +42,9 @@ VERSION=0.0.29
 wget "https://shiftleft-prod.s3.amazonaws.com/blades/shiftleft/bin/${OS}/${PLATFORM}/${VERSION}/shiftleft"
 chmod +x shiftleft      # Make the file executable
 mv shiftleft /usr/bin   # Move the executable to a directory within your PATH
+cd /var/lib/jenkins/workspace/Cloudguard-Shiftleft-Plugin/
+chown jenkins shiftleft
+
 ```
 
 ### Generate CloudGuard credentials
