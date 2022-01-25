@@ -1,5 +1,7 @@
 # cloudguard-shiftleft
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/89f8905a-951c-4a12-a702-52cec1e0f7a0.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/cloudguard-shiftleft-plugin?orgId=288883884012)  
+
 [![Build Status](https://ci.jenkins.io/job/Plugins/job/cloudguard-shiftleft-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/cloudguard-shiftleft-plugin/job/master/)
 [![Contributors](https://img.shields.io/github/contributors/jenkinsci/cloudguard-shiftleft-plugin.svg)](https://github.com/jenkinsci/cloudguard-shiftleft-plugin/graphs/contributors)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/cloudguard-shiftleft.svg)](https://plugins.jenkins.io/cloudguard-shiftleft)
